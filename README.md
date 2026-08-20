@@ -48,6 +48,22 @@ $ cat ~/.config/principles
   solo             design, code, App Store, marketing, support
 ```
 
+## Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/edvingru/edvingru/output/snake-dark.svg#gh-dark-mode-only" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/edvingru/edvingru/output/snake-light.svg#gh-light-mode-only" alt="contribution snake" />
+
+</div>
+
+<!--
+ALTERNATIVE: a blue commit activity line chart instead of the snake.
+No workflow needed — just swap the block above for this one.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edvingru&bg_color=05080F&color=7DD3FC&line=38BDF8&point=7DD3FC&area=true&area_color=125E97&hide_border=true" />
+-->
+
 ## Elsewhere
 
 <div align="center">
