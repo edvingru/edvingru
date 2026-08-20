@@ -48,15 +48,6 @@ $ cat ~/.config/principles
   solo             design, code, App Store, marketing, support
 ```
 
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=edvingru&show_icons=true&hide_border=true&bg_color=05080F&title_color=7DD3FC&text_color=A9C7DC&icon_color=38BDF8&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvingru&layout=compact&hide_border=true&bg_color=05080F&title_color=7DD3FC&text_color=A9C7DC" />
-
-</div>
-
 ## Elsewhere
 
 <div align="center">
