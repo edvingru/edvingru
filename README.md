@@ -26,22 +26,22 @@ No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 ## Stack
 
 ![Swift](https://img.shields.io/badge/Swift-0B2E4F?style=flat-square&logo=swift&logoColor=7DD3FC#gh-dark-mode-only)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0C3A61?style=flat-square&logo=swift&logoColor=7DD3FC#gh-dark-mode-only)
-![JavaScript](https://img.shields.io/badge/JavaScript-0E4673?style=flat-square&logo=javascript&logoColor=7DD3FC#gh-dark-mode-only)
-![HTML5](https://img.shields.io/badge/HTML5-105285?style=flat-square&logo=html5&logoColor=7DD3FC#gh-dark-mode-only)
-![CSS3](https://img.shields.io/badge/CSS3-125E97?style=flat-square&logo=css3&logoColor=7DD3FC#gh-dark-mode-only)
-![Python](https://img.shields.io/badge/Python-146AA9?style=flat-square&logo=python&logoColor=7DD3FC#gh-dark-mode-only)
-![Obsidian](https://img.shields.io/badge/Obsidian-1676BB?style=flat-square&logo=obsidian&logoColor=7DD3FC#gh-dark-mode-only)
-![Xcode](https://img.shields.io/badge/Xcode-1882CD?style=flat-square&logo=xcode&logoColor=7DD3FC#gh-dark-mode-only)
-![Apple](https://img.shields.io/badge/Apple-1A8EDF?style=flat-square&logo=apple&logoColor=7DD3FC#gh-dark-mode-only)
 ![Swift](https://img.shields.io/badge/Swift-E0F2FE?style=flat-square&logo=swift&logoColor=0369A1#gh-light-mode-only)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0C3A61?style=flat-square&logo=swift&logoColor=7DD3FC#gh-dark-mode-only)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-E0F2FE?style=flat-square&logo=swift&logoColor=0369A1#gh-light-mode-only)
+![JavaScript](https://img.shields.io/badge/JavaScript-0E4673?style=flat-square&logo=javascript&logoColor=7DD3FC#gh-dark-mode-only)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E0F2FE?style=flat-square&logo=javascript&logoColor=0369A1#gh-light-mode-only)
+![HTML5](https://img.shields.io/badge/HTML5-105285?style=flat-square&logo=html5&logoColor=7DD3FC#gh-dark-mode-only)
 ![HTML5](https://img.shields.io/badge/HTML5-E0F2FE?style=flat-square&logo=html5&logoColor=0369A1#gh-light-mode-only)
+![CSS3](https://img.shields.io/badge/CSS3-125E97?style=flat-square&logo=css3&logoColor=7DD3FC#gh-dark-mode-only)
 ![CSS3](https://img.shields.io/badge/CSS3-E0F2FE?style=flat-square&logo=css3&logoColor=0369A1#gh-light-mode-only)
+![Python](https://img.shields.io/badge/Python-146AA9?style=flat-square&logo=python&logoColor=7DD3FC#gh-dark-mode-only)
 ![Python](https://img.shields.io/badge/Python-E0F2FE?style=flat-square&logo=python&logoColor=0369A1#gh-light-mode-only)
+![Obsidian](https://img.shields.io/badge/Obsidian-1676BB?style=flat-square&logo=obsidian&logoColor=7DD3FC#gh-dark-mode-only)
 ![Obsidian](https://img.shields.io/badge/Obsidian-E0F2FE?style=flat-square&logo=obsidian&logoColor=0369A1#gh-light-mode-only)
+![Xcode](https://img.shields.io/badge/Xcode-1882CD?style=flat-square&logo=xcode&logoColor=7DD3FC#gh-dark-mode-only)
 ![Xcode](https://img.shields.io/badge/Xcode-E0F2FE?style=flat-square&logo=xcode&logoColor=0369A1#gh-light-mode-only)
+![Apple](https://img.shields.io/badge/Apple-1A8EDF?style=flat-square&logo=apple&logoColor=7DD3FC#gh-dark-mode-only)
 ![Apple](https://img.shields.io/badge/Apple-E0F2FE?style=flat-square&logo=apple&logoColor=0369A1#gh-light-mode-only)
 
 ## How I build
@@ -78,12 +78,12 @@ No workflow needed — just swap the block above for this one.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-edvingru-0B2E4F?style=for-the-badge&logo=github&logoColor=7DD3FC#gh-dark-mode-only)](https://github.com/edvingru)
-[![X](https://img.shields.io/badge/x-edvingru-104E80?style=for-the-badge&logo=x&logoColor=7DD3FC#gh-dark-mode-only)](https://x.com/edvingru)
-[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-1676BB?style=for-the-badge&logoColor=7DD3FC#gh-dark-mode-only)](https://whop.com/joined/local-trading-journal/)
-[![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-1A8EDF?style=for-the-badge&logo=appstore&logoColor=7DD3FC#gh-dark-mode-only)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 [![GitHub](https://img.shields.io/badge/github-edvingru-E0F2FE?style=for-the-badge&logo=github&logoColor=0369A1#gh-light-mode-only)](https://github.com/edvingru)
+[![X](https://img.shields.io/badge/x-edvingru-104E80?style=for-the-badge&logo=x&logoColor=7DD3FC#gh-dark-mode-only)](https://x.com/edvingru)
 [![X](https://img.shields.io/badge/x-edvingru-E0F2FE?style=for-the-badge&logo=x&logoColor=0369A1#gh-light-mode-only)](https://x.com/edvingru)
+[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-1676BB?style=for-the-badge&logoColor=7DD3FC#gh-dark-mode-only)](https://whop.com/joined/local-trading-journal/)
 [![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-E0F2FE?style=for-the-badge&logoColor=0369A1#gh-light-mode-only)](https://whop.com/joined/local-trading-journal/)
+[![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-1A8EDF?style=for-the-badge&logo=appstore&logoColor=7DD3FC#gh-dark-mode-only)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 [![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-E0F2FE?style=for-the-badge&logo=appstore&logoColor=0369A1#gh-light-mode-only)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 
 </div>
