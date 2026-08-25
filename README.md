@@ -20,7 +20,7 @@ No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 | :--- | :--- | :--- |
 | **[Local Trading Journal](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)** | macOS | Native trade journal for prop firm and retail traders. PDF export, taxable event tracking, charts &mdash; all local. |
 | **[Local Trading Journal &mdash; Obsidian plugin](https://whop.com/joined/local-trading-journal/)** | Obsidian | Companion plugin for journaling trades inside your vault. |
-| **Local Life Journal** | iOS | SwiftUI life journal: MIT tasks, goals and key results, mood tracking, morning and evening rituals, inbox, knowledge library. |
+| **[Local Life Journal](https://apps.apple.com/ie/app/local-life-journal/id6802128986)** | iOS | SwiftUI life journal: MIT tasks, goals and key results, mood tracking, morning and evening rituals, inbox, knowledge library. |
 
 ## Stack
 
