@@ -33,6 +33,10 @@ No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 ![Obsidian](https://img.shields.io/badge/Obsidian-1470AF?style=flat-square&logo=obsidian&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1470AF?style=flat-square&logo=xcode&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-1470AF?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1470AF?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1470AF?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1470AF?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1470AF?style=flat-square&logo=docker&logoColor=white)
 
 ## How I build
 
