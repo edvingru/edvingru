@@ -24,19 +24,19 @@ No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 
 ## Stack
 
-![Swift](https://img.shields.io/badge/Swift-1470AF?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-1470AF?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1470AF?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1470AF?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1470AF?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1470AF?style=flat-square&logo=python&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-1470AF?style=flat-square&logo=obsidian&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1470AF?style=flat-square&logo=xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-1470AF?style=flat-square&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1470AF?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1470AF?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-1470AF?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1470AF?style=flat-square&logo=docker&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-3F3F3F?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-3F3F3F?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3F3F3F?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3F3F3F?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3F3F3F?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3F3F3F?style=flat-square&logo=python&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-3F3F3F?style=flat-square&logo=obsidian&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-3F3F3F?style=flat-square&logo=xcode&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-3F3F3F?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3F3F3F?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3F3F3F?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-3F3F3F?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3F3F3F?style=flat-square&logo=docker&logoColor=white)
 
 ## How I build
 
@@ -71,10 +71,10 @@ No workflow needed — just swap the block above for this one.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-edvingru-1470AF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edvingru)
-[![X](https://img.shields.io/badge/x-edvingru-1470AF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edvingru)
-[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-1470AF?style=for-the-badge&logoColor=white)](https://whop.com/joined/local-trading-journal/)
-[![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-1470AF?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
+[![GitHub](https://img.shields.io/badge/github-edvingru-3F3F3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edvingru)
+[![X](https://img.shields.io/badge/x-edvingru-3F3F3F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edvingru)
+[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-3F3F3F?style=for-the-badge&logoColor=white)](https://whop.com/joined/local-trading-journal/)
+[![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-3F3F3F?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 
 </div>
 
