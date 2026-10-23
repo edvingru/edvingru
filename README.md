@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Independent developer building offline-first productivity software.**
+**Independent developer building offline-first trading software.**
 No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 
 </div>
