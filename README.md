@@ -72,7 +72,6 @@ No workflow needed — just swap the block above for this one.
 
 [![GitHub](https://img.shields.io/badge/github-edvingru-3F3F3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edvingru)
 [![X](https://img.shields.io/badge/x-edvingru-3F3F3F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edvingru)
-[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-3F3F3F?style=for-the-badge&logoColor=white)](https://whop.com/joined/local-trading-journal/)
 [![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-3F3F3F?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 
 </div>
@@ -99,7 +98,7 @@ at the top of this file and paste the code block below in their place.
  :::..::.=+*+:%@@%%@@#=-::--:.........::.::-=+***#@=                      Local Life Journal     (iOS)
   .::.:.:#=:.+@@%***=-::.::::.......::==++===++****                       Obsidian plugins
   .-==-.+* .+@@@*-::=+:..  .:........:-=+**++++*++.       Data policy ... no accounts · no cloud · no telemetry
-.:---::.*#+.@@@%+-::-:       ........:::=+***++++-        Distribution .. App Store · Whop
+.:---::.*#+.@@@%+-::-:       ........:::=+***++++-        Distribution .. App Store 
 .:=-.:: ##+#@%%*=-:...       :-.......::-=*%%*+*-
  .--=+=.:-+@%%*+--:....   .:--...      ...:-**++.:.
    ..-++:.@@#*+=--::.....:-==-:.        ... :+*+=*=
