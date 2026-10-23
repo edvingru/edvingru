@@ -1135,10 +1135,8 @@
 <text x="458.8" y="108.5" xml:space="preserve"><tspan fill="#9ca3af">Languages ..... </tspan><tspan fill="#c9c9c9">Swift · SwiftUI · JavaScript</tspan></text>
 <text x="458.8" y="124.0" xml:space="preserve"><tspan fill="#9ca3af">                </tspan><tspan fill="#c9c9c9">HTML · CSS · Python</tspan></text>
 <text x="458.8" y="139.5" xml:space="preserve"><tspan fill="#9ca3af">Spoken ........ </tspan><tspan fill="#c9c9c9">English · Русский · Lietuvių</tspan></text>
-<text x="458.8" y="155.0" xml:space="preserve"><tspan fill="#9ca3af">Focus ......... </tspan><tspan fill="#c9c9c9">offline-first productivity software</tspan></text>
+<text x="458.8" y="155.0" xml:space="preserve"><tspan fill="#9ca3af">Focus ......... </tspan><tspan fill="#c9c9c9">local-first trading software</tspan></text>
 <text x="458.8" y="170.5" xml:space="preserve"><tspan fill="#9ca3af">Shipping ...... </tspan><tspan fill="#c9c9c9">Local Trading Journal  (macOS)</tspan></text>
-<text x="458.8" y="186.0" xml:space="preserve"><tspan fill="#9ca3af">                </tspan><tspan fill="#c9c9c9">Local Life Journal     (iOS)</tspan></text>
-<text x="458.8" y="201.5" xml:space="preserve"><tspan fill="#9ca3af">                </tspan><tspan fill="#c9c9c9">Obsidian plugins</tspan></text>
-<text x="458.8" y="217.0" xml:space="preserve"><tspan fill="#9ca3af">Data policy ... </tspan><tspan fill="#c9c9c9">no accounts · no cloud · no telemetry</tspan></text>
-<text x="458.8" y="232.5" xml:space="preserve"><tspan fill="#9ca3af">Distribution .. </tspan><tspan fill="#c9c9c9">App Store · Whop</tspan></text>
+<text x="458.8" y="186.0" xml:space="preserve"><tspan fill="#9ca3af">Data policy ... </tspan><tspan fill="#c9c9c9">no accounts · no cloud · no telemetry</tspan></text>
+<text x="458.8" y="201.5" xml:space="preserve"><tspan fill="#9ca3af">Distribution .. </tspan><tspan fill="#c9c9c9">App Store</tspan></text>
 </svg>

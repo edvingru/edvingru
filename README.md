@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Independent developer building offline-first trading software.**
+**Independent developer building local-first trading software.**
 No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 
 </div>
@@ -19,7 +19,8 @@ No accounts. No cloud sync. No telemetry. Your data stays on your machine.
 | Project | Platform | What it is |
 | :--- | :--- | :--- |
 | **[Local Trading Journal](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)** | macOS | Native trade journal for prop firm and retail traders. PDF export, taxable event tracking, charts &mdash; all local. |
-
+| **[Local Trading Journal &mdash; Obsidian plugin](https://whop.com/joined/local-trading-journal/)** | Obsidian | Companion plugin for journaling trades inside your vault. |
+| **[Local Life Journal](https://apps.apple.com/ie/app/local-life-journal/id6802128986)** | iOS | SwiftUI life journal: MIT tasks, goals and key results, mood tracking, morning and evening rituals, inbox, knowledge library. |
 
 ## Stack
 
@@ -72,6 +73,7 @@ No workflow needed — just swap the block above for this one.
 
 [![GitHub](https://img.shields.io/badge/github-edvingru-3F3F3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edvingru)
 [![X](https://img.shields.io/badge/x-edvingru-3F3F3F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/edvingru)
+[![Whop](https://img.shields.io/badge/whop-local%20trading%20journal-3F3F3F?style=for-the-badge&logoColor=white)](https://whop.com/joined/local-trading-journal/)
 [![App Store](https://img.shields.io/badge/app%20store-local%20trading%20journal-3F3F3F?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/local-trading-journal/id6779735147?mt=12)
 
 </div>
@@ -93,12 +95,12 @@ at the top of this file and paste the code block below in their place.
 --:-==.           @@@@#@@*=-:......:::..::--===:==:.      Languages ..... Swift · SwiftUI · JavaScript
 ::-=+:          :@@@@#%%+-:::....   ::::::--=++=+=::.                     HTML · CSS · Python
 .::-=:         :@@@@%%#+-::::.........::::-=+##*+=:-:     Spoken ........ English · Русский · Lietuvių
-.:..-=:.   == :@@@@%##*=:::::...........:-=+%@%##*=+:     Focus ......... offline-first productivity software
+.:..-=:.   == :@@@@%##*=:::::...........:-=+%@%##*=+:     Focus ......... local-first trading software
 :: .:--:  :**.#@@@@%%%*-:::::...........:-=+***###%*      Shipping ...... Local Trading Journal  (macOS)
  :::..::.=+*+:%@@%%@@#=-::--:.........::.::-=+***#@=                      Local Life Journal     (iOS)
   .::.:.:#=:.+@@%***=-::.::::.......::==++===++****                       Obsidian plugins
   .-==-.+* .+@@@*-::=+:..  .:........:-=+**++++*++.       Data policy ... no accounts · no cloud · no telemetry
-.:---::.*#+.@@@%+-::-:       ........:::=+***++++-        Distribution .. App Store 
+.:---::.*#+.@@@%+-::-:       ........:::=+***++++-        Distribution .. App Store · Whop
 .:=-.:: ##+#@%%*=-:...       :-.......::-=*%%*+*-
  .--=+=.:-+@%%*+--:....   .:--...      ...:-**++.:.
    ..-++:.@@#*+=--::.....:-==-:.        ... :+*+=*=
